@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dongshuai Hou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Materials Science and Engineering
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Qingdao University of Technology
+  url: "qtech.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include durability of concrete and molecular dynamics simulation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Durability of concrete
+- molecular dynamics
 
 education:
   courses:
@@ -68,6 +68,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dongshuai Hou is a professor of Materials Science and Engineering
