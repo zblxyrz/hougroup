@@ -1,20 +1,16 @@
 ---
-title: "Nanoscale mechanism of ions immobilized by the geopolymer: A
-molecular dynamics study"
+title: "An example journal article"
 authors:
-- Dongshai Hou
-- Jinglin Zhang
-- Pan Wang
-- Yue Zhang
-- Zuhua Zhang 
+- admin
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2019-10-01T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,16 +19,13 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Nuclear Materials, 1*(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Geopolymer with sodium aluminosilicate hydrate (NASH) gel as the main hydration product exhibits
-good waster immobilizing ability. To provide a fundamental understanding of the immobilization
-mechanism of geopolymer materials, molecular dynamics approach is used to study the density distribution,
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: This study provides a fundamental understanding of immobilization mechanism of geopolymer material at the molecular level.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
