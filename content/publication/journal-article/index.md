@@ -4,9 +4,11 @@ molecular dynamics study"
 authors:
 - Dongshuai Hou
 - Jinglin Zhang
+- Pan Wang
+- Yue Zhang
+- Zuhua Zhang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
