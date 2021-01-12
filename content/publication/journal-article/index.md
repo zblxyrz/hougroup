@@ -29,8 +29,7 @@ publication_types: ["2"]
 publication: "*Journal of Nuclear Materials, 1*(1)"
 publication_short: ""
 
-abstract: Geopolymer with sodium aluminosilicate hydrate (NASH) gel as the main hydration product exhibits
-good waster immobilizing ability. 
+abstract: Geopolymer with sodium aluminosilicate hydrate ( NASH ) gel as the main hydration product exhibits good waster immobilizing ability. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
