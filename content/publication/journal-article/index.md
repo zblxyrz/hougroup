@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+title: "Nanoscale mechanism of ions immobilized by the geopolymer: A
+molecular dynamics study"
 authors:
 - admin
 - Robert Ford
