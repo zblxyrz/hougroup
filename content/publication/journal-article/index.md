@@ -2,8 +2,8 @@
 title: "Nanoscale mechanism of ions immobilized by the geopolymer: A
 molecular dynamics study"
 authors:
-- admin
-- Robert Ford
+- Dongshuai Hou
+- Jinglin Zhang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
